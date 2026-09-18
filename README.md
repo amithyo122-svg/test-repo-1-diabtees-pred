@@ -1,2 +1,2 @@
-# test-repo-1-diabtees-pred
-my first repo
+# diabetes-prediction-app-repo
+This is the code repository for Diabetes Prediction using ML app
